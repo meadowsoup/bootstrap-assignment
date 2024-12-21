@@ -2,13 +2,20 @@ carousel{
 flex-wrap: width 30px height 50px;
 }
 body{
-     background-color: antiquewhite;
+     background-color: azure;
 
 }
 nav{
      background-color: aliceblue;
 }
-
+.sidebar{
+     width: 200px;
+     height: 1000px;
+}
+/* .maincontainer{
+     display: flex;
+     margin-left: auto;
+} */
 
 
 /* --#{$prefix}nav-pills-border-radius: #{$nav-pills-border-radius};
